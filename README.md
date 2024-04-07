@@ -1,5 +1,5 @@
 # iOS-Performance-Optimization
-This project contains resources on how you can optimize your iOS application performance
+This project contains highly recommended resources on how you can optimize your iOS application performance
 
 # Table of Contents
 
