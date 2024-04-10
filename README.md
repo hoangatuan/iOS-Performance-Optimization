@@ -3,9 +3,10 @@ This project contains highly recommended resources on how you can optimize your 
 
 # Table of Contents
 
-- [AppSize](#app-size)
+- [Reduce App Size](#reduce-app-size)
+- [Reduce Build time](#reduce-build-time)
 
-## App Size
+## Reduce App Size
 
 ### Foundation knowledge
 
@@ -21,3 +22,20 @@ This project contains highly recommended resources on how you can optimize your 
 - [How 7 iOS Apps Could Save You 500MB of Storage](https://www.emergetools.com/blog/posts/7AppsThatCouldSaveYou500MB) by Emerge
 - [Spotify](https://www.youtube.com/watch?v=v3rYaEXzRh4)
 - [Make Your iOS App Smaller with Dynamic Frameworks](https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
+
+## Reduce Build time
+
+### Foundation knowledge
+
+- Clean build vs. Incremental build
+
+### Tools
+
+- [Xcode Build time Rendering](https://github.com/PaulTaykalo/xcode-build-times-rendering)
+- [XCMetrics](https://github.com/spotify/XCMetrics)
+
+### Real-life example
+
+- [Grab](https://trinhngocthuyen.com/posts/tech/a-tale-of-project-build-time/)
+- [Building faster](https://developer.apple.com/videos/play/wwdc2018/408) by Apple
+  
