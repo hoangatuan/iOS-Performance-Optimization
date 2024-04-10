@@ -27,7 +27,7 @@ This project contains highly recommended resources on how you can optimize your 
 
 ### Foundation knowledge
 
-- Clean build vs. Incremental build
+- [Clean build vs. Incremental build](https://emndeniz.medium.com/xcode-build-time-optimization-abee9893e4c8)
 
 ### Tools
 
