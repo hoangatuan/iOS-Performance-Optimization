@@ -19,4 +19,5 @@ This project contains highly recommended resources on how you can optimize your 
 
 - [How Uber Deals with Large iOS App Size](https://www.uber.com/en-SG/blog/how-uber-deals-with-large-ios-app-size/)
 - [How 7 iOS Apps Could Save You 500MB of Storage](https://www.emergetools.com/blog/posts/7AppsThatCouldSaveYou500MB) by Emerge
+- [Spotify](https://www.youtube.com/watch?v=v3rYaEXzRh4)
 - [Make Your iOS App Smaller with Dynamic Frameworks](https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
