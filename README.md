@@ -33,9 +33,13 @@ This project contains highly recommended resources on how you can optimize your 
 
 - [Xcode Build time Rendering](https://github.com/PaulTaykalo/xcode-build-times-rendering)
 - [XCMetrics](https://github.com/spotify/XCMetrics)
+- [Tuist](https://github.com/tuist/tuist)
+- Bazel
 
 ### Real-life example
 
 - [Grab](https://trinhngocthuyen.com/posts/tech/a-tale-of-project-build-time/)
+- [Gojek](https://medium.com/gojekengineering/reducing-our-build-time-by-50-835b54c99588)
+- [Tokopedia](https://medium.com/tokopedia-engineering/how-tokopedia-achieved-1000-faster-ios-build-time-7664b2d8ae5)
 - [Building faster](https://developer.apple.com/videos/play/wwdc2018/408) by Apple
   
