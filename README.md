@@ -19,6 +19,8 @@ This project contains highly recommended resources on how you can optimize your 
 ### Tools
 
 - [Emerge Tool size Analysis](https://www.emergetools.com/uploads)
+- [Periphery - Unused code detection](https://github.com/peripheryapp/periphery)
+- [FengNiao - Unused image detection](https://github.com/onevcat/FengNiao)
 
 ### Real-life example
 
@@ -32,6 +34,7 @@ This project contains highly recommended resources on how you can optimize your 
 ### Foundation knowledge
 
 - [Clean build vs. Incremental build](https://emndeniz.medium.com/xcode-build-time-optimization-abee9893e4c8)
+- [Swift Compiler Performance](https://github.com/apple/swift/blob/main/docs/CompilerPerformance.md) by Apple 
 
 ### Tools
 
