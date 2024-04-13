@@ -16,6 +16,10 @@ This project contains highly recommended resources on how you can optimize your 
 - [Advance optimization to reduce app size](https://developer.apple.com/documentation/xcode/doing-advanced-optimization-to-further-reduce-your-app-s-size) by Apple
 - [Reducing app size](https://developer.apple.com/documentation/xcode/reducing-your-app-s-size) by Apple
 
+### Tools
+
+- [Emerge Tool size Analisis](https://www.emergetools.com/uploads)
+
 ### Real-life example
 
 - [How Uber Deals with Large iOS App Size](https://www.uber.com/en-SG/blog/how-uber-deals-with-large-ios-app-size/)
