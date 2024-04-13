@@ -18,7 +18,7 @@ This project contains highly recommended resources on how you can optimize your 
 
 ### Tools
 
-- [Emerge Tool size Analisis](https://www.emergetools.com/uploads)
+- [Emerge Tool size Analysis](https://www.emergetools.com/uploads)
 
 ### Real-life example
 
