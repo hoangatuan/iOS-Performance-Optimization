@@ -5,6 +5,7 @@ This project contains highly recommended resources on how you can optimize your 
 
 - [Reduce App Size](#reduce-app-size)
 - [Reduce Build time](#reduce-build-time)
+- [App Launch time](#App-launch-time)
 
 ## Reduce App Size
 
@@ -49,4 +50,19 @@ This project contains highly recommended resources on how you can optimize your 
 - [Gojek](https://medium.com/gojekengineering/reducing-our-build-time-by-50-835b54c99588)
 - [Tokopedia](https://medium.com/tokopedia-engineering/how-tokopedia-achieved-1000-faster-ios-build-time-7664b2d8ae5)
 - [Building faster](https://developer.apple.com/videos/play/wwdc2018/408) by Apple
-  
+
+## App launch time
+
+### Foundation knowledge
+
+- [About the app launch sequence](https://developer.apple.com/documentation/uikit/app_and_environment/responding_to_the_launch_of_your_app/about_the_app_launch_sequence) by Apple
+- [Cold launch vs Warm launch](https://developer.apple.com/documentation/xcode/reducing-your-app-s-launch-time#Understanding-cold-and-warm-launch): Apple
+
+### Tools
+
+- Xcode Instruments
+
+### Real-life example
+
+- [Apple](https://developer.apple.com/documentation/xcode/reducing-your-app-s-launch-time)
+- [Uber](https://www.uber.com/en-SG/blog/measuring-performance-for-ios-apps-at-uber-scale/?uclick_id=50770e44-6b39-4177-9e17-b24247f0b7f6)
