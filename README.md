@@ -6,6 +6,9 @@ This project contains highly recommended resources on how you can optimize your 
 - [Reduce App Size](#reduce-app-size)
 - [Reduce Build time](#reduce-build-time)
 - [App Launch time](#App-launch-time)
+- [App Runtime](#App-run-time)
+- [App Hang](#App-hang)
+- [Memory usage](#memory-usage)
 
 ## Reduce App Size
 
@@ -68,3 +71,9 @@ This project contains highly recommended resources on how you can optimize your 
 - [Apple](https://developer.apple.com/documentation/xcode/reducing-your-app-s-launch-time)
 - [Uber](https://www.uber.com/en-SG/blog/measuring-performance-for-ios-apps-at-uber-scale/?uclick_id=50770e44-6b39-4177-9e17-b24247f0b7f6)
 - [Facebook Dynamic Loading](https://medium.com/@stevedao91/dynamic-loading-for-ios-6229d39a0a70)
+
+## App Runtime
+
+## App Hang
+
+## Memory Usage
