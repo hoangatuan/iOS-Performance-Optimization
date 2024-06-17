@@ -74,6 +74,12 @@ This project contains highly recommended resources on how you can optimize your 
 
 ## App Runtime
 
+### Foundation Knowledge
+
+### Tools
+
+- [os signpost](https://www.donnywals.com/measuring-performance-with-os_signpost)
+
 ## App Hang
 
 ## Memory Usage
