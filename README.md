@@ -32,6 +32,7 @@ This project contains highly recommended resources on how you can optimize your 
 - [How 7 iOS Apps Could Save You 500MB of Storage](https://www.emergetools.com/blog/posts/7AppsThatCouldSaveYou500MB) by Emerge
 - [Spotify](https://www.youtube.com/watch?v=v3rYaEXzRh4)
 - [Make Your iOS App Smaller with Dynamic Frameworks](https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
+- [Manage Image Resources](https://medium.com/p/45681f475461)
 
 ## Reduce Build time
 
@@ -83,3 +84,9 @@ This project contains highly recommended resources on how you can optimize your 
 ## App Hang
 
 ## Memory Usage
+
+### Foundation Knowledge
+
+### Real life examples
+
+
