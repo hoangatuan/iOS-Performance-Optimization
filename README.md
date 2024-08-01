@@ -48,6 +48,7 @@ This project contains highly recommended resources on how you can optimize your 
 - [XCMetrics](https://github.com/spotify/XCMetrics)
 - [Tuist](https://github.com/tuist/tuist)
 - Bazel
+- [Cocoapod binary cache](https://github.com/grab/cocoapods-binary-cache) by Grab
 
 ### Real-life example
 
