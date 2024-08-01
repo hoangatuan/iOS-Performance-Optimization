@@ -49,6 +49,7 @@ This project contains highly recommended resources on how you can optimize your 
 - [Tuist](https://github.com/tuist/tuist)
 - Bazel
 - [Cocoapod binary cache](https://github.com/grab/cocoapods-binary-cache) by Grab
+- [Build time analyzer](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode): Measure the time Xcode takes to compile every funcs
 
 ### Real-life example
 
