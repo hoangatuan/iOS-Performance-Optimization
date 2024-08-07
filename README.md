@@ -9,6 +9,7 @@ This project contains highly recommended resources on how you can optimize your 
 - [App Runtime](#App-run-time)
 - [App Hang](#App-hang)
 - [Memory usage](#memory-usage)
+- [CI](#ci)
 
 ## Reduce App Size
 
@@ -92,5 +93,11 @@ This project contains highly recommended resources on how you can optimize your 
 ### Foundation Knowledge
 
 ### Real life examples
+
+## CI
+
+### Examples
+
+- [Performance testing on CI](https://testableapple.com/xctmetric/?issue=043&utm_source=fatbobman%20weekly%20issue%2043&utm_medium=email&utm_campaign=fatbobman%20weekly)
 
 
