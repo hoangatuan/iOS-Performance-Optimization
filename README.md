@@ -41,7 +41,9 @@ This project contains highly recommended resources on how you can optimize your 
 ### Foundation knowledge
 
 - [Clean build vs. Incremental build](https://emndeniz.medium.com/xcode-build-time-optimization-abee9893e4c8)
-- [Swift Compiler Performance](https://github.com/apple/swift/blob/main/docs/CompilerPerformance.md) by Apple 
+- [Swift Compiler Performance](https://github.com/apple/swift/blob/main/docs/CompilerPerformance.md) by Apple
+- [Understanding Swift Performance](https://developer.apple.com/videos/play/wwdc2016/416/) by Apple: Understand how ARC works and how it impacts your app's performance
+- [Performance of value type](https://swiftrocks.com/memory-management-and-performance-of-value-types) by Swiftrocks
 
 ### Tools
 
