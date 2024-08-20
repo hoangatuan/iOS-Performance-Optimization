@@ -20,7 +20,8 @@ This project contains highly recommended resources on how you can optimize your 
 - [Basic optimization to reduce app size](https://developer.apple.com/documentation/xcode/doing-basic-optimization-to-reduce-your-app-s-size) by Apple
 - [Advance optimization to reduce app size](https://developer.apple.com/documentation/xcode/doing-advanced-optimization-to-further-reduce-your-app-s-size) by Apple
 - [Reducing app size](https://developer.apple.com/documentation/xcode/reducing-your-app-s-size) by Apple
-- [Strip Binary Simple](https://docs.emergetools.com/docs/strip-binary-symbols) 
+- [Strip Binary Simple](https://docs.emergetools.com/docs/strip-binary-symbols)
+- [Xcode build time optimization](https://tech.autoscout24.com/blog/posts/xcode-build-time-optimization/) 
 
 ### Tools
 
