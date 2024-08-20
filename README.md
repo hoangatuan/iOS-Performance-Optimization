@@ -91,6 +91,16 @@ This project contains highly recommended resources on how you can optimize your 
 
 ## App Hang
 
+### Foundation Knowledge
+
+- [Understanding hangs in your app](https://developer.apple.com/documentation/xcode/understanding-hangs-in-your-app)
+- [Understand and eliminate hangs from your app](https://developer.apple.com/videos/play/wwdc2021/10258/)
+
+### Tools
+
+- [Track down hangs with Xcode and on-device detection](https://developer.apple.com/videos/play/wwdc2022/10082/): track hangs during pre-release testing, show you how to identify issues in release builds using the Xcode Organizer
+- [Analyzing responsiveness issues in your shipping app](https://developer.apple.com/documentation/xcode/analyzing-responsiveness-issues-in-your-shipping-app)
+
 ## Memory Usage
 
 ### Foundation Knowledge
