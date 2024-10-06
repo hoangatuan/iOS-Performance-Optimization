@@ -6,7 +6,7 @@ This project contains highly recommended resources on how you can optimize your 
 - [Reduce App Size](#reduce-app-size)
 - [Reduce Build time](#reduce-build-time)
 - [App Launch time](#App-launch-time)
-- [App Runtime](#App-run-time)
+- [App Runtime](#App-runtime)
 - [App Hang](#App-hang)
 - [Memory usage](#memory-usage)
 - [CI](#ci)
@@ -90,6 +90,7 @@ This project contains highly recommended resources on how you can optimize your 
 ### Tools
 
 - [os signpost](https://www.donnywals.com/measuring-performance-with-os_signpost)
+- [ETTrace](https://github.com/EmergeTools/ETTrace)
 
 ## App Hang
 
