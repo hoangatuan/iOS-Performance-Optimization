@@ -107,7 +107,18 @@ This project contains highly recommended resources on how you can optimize your 
 
 ### Foundation Knowledge
 
+- [You don't always need weak self](https://medium.com/@almalehdev/you-dont-always-need-weak-self-a778bec505ef)
+- [Nested closure weak self](https://medium.com/@almalehdev/the-nested-closure-trap-356a0145b6d)
+- [Detect Unused code using Memory graph debugger](https://careers.doordash.com/blog/ios-memory-leaks-and-retain-cycle-detection-using-xcodes-memory-graph-debugger/)
+- [Automating Memory Leak Detection with CI Integration](https://medium.com/gitconnected/automating-memory-leak-detection-with-ci-integration-for-ios-380f08a55f0b)
+
+### Tools 
+
+- [Memory Leaks Check](https://github.com/hoangatuan/MemoryLeaksCheck): A tool for detecting memory leak in CI
+
 ### Real life examples
+
+- [The Memory Leak: An Xcode Detective Story by Emerge](https://www.emergetools.com/blog/posts/the-memory-leak-an-xcode-detective-story?utm_campaign%3DiOS%20CI%20Newsletter%26utm_medium%3Dweb%26utm_source%3DiOS%20CI%20Newsletter%20Issue%2051%26utm_content%3Dsep_23_24)
 
 ## CI
 
