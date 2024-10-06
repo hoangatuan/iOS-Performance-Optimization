@@ -26,8 +26,9 @@ This project contains highly recommended resources on how you can optimize your 
 ### Tools
 
 - [Emerge Tool size Analysis](https://www.emergetools.com/uploads)
-- [Periphery - Unused code detection](https://github.com/peripheryapp/periphery)
+- [Periphery - Static analysis - Unused code detection](https://github.com/peripheryapp/periphery) 
 - [FengNiao - Unused image detection](https://github.com/onevcat/FengNiao)
+- [Reaper by Emerge](https://docs.emergetools.com/docs/reaper): Dynamic analysis for Unused code
 
 ### Real-life example
 
@@ -36,6 +37,7 @@ This project contains highly recommended resources on how you can optimize your 
 - [Spotify](https://www.youtube.com/watch?v=v3rYaEXzRh4)
 - [Make Your iOS App Smaller with Dynamic Frameworks](https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
 - [Manage Image Resources](https://medium.com/p/45681f475461)
+- [Duolingo remove 10000 lines of unused code by using Reaper](https://blog.duolingo.com/emerge-tools-reaper/)
 
 ## Reduce Build time
 
