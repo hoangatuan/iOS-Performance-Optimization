@@ -126,5 +126,6 @@ This project contains highly recommended resources on how you can optimize your 
 ### Examples
 
 - [Performance testing on CI](https://testableapple.com/xctmetric/?issue=043&utm_source=fatbobman%20weekly%20issue%2043&utm_medium=email&utm_campaign=fatbobman%20weekly)
+- [Selective testing](https://medium.com/trendyol-tech/selective-unit-testing-on-ios-achieve-80-faster-feedback-42e865c8ce20)
 
 
