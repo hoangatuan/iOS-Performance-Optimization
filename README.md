@@ -1,5 +1,6 @@
 # iOS-Performance-Optimization
-This project contains highly recommended resources on how you can optimize your iOS application performance
+This project contains foundation knowledge and highly recommended resources on optimizing your iOS application performance.
+Contributions are welcome 👋
 
 # Table of Contents
 
@@ -87,6 +88,9 @@ This project contains highly recommended resources on how you can optimize your 
 ## App Runtime
 
 ### Foundation Knowledge
+
+- [Thread explosion](https://swiftsenpai.com/swift/swift-concurrency-prevent-thread-explosion/) by SwiftSenpai
+- [Making efficient use of the libdispatch (GCD)](https://gist.github.com/tclementdev/6af616354912b0347cdf6db159c37057) by Apple engineer 
 
 ### Tools
 
