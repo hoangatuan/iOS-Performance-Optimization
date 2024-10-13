@@ -73,6 +73,8 @@ Contributions are welcome 👋
 - [About the app launch sequence](https://developer.apple.com/documentation/uikit/app_and_environment/responding_to_the_launch_of_your_app/about_the_app_launch_sequence) by Apple
 - [Cold launch vs Warm launch](https://developer.apple.com/documentation/xcode/reducing-your-app-s-launch-time#Understanding-cold-and-warm-launch): Apple
 - [Dynamic Linker vs Static Linker](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/OverviewOfDynamicLibraries.html)
+- [Mach-O](https://medium.com/tokopedia-engineering/a-curious-case-of-mach-o-executable-26d5ecadd995)
+- [Dyld](https://www.emergetools.com/glossary/dyld)
 
 ### Tools
 
@@ -84,6 +86,7 @@ Contributions are welcome 👋
 - [Uber](https://www.uber.com/en-SG/blog/measuring-performance-for-ios-apps-at-uber-scale/?uclick_id=50770e44-6b39-4177-9e17-b24247f0b7f6)
 - [Facebook Dynamic Loading](https://medium.com/@stevedao91/dynamic-loading-for-ios-6229d39a0a70)
 - [How Door Dash Reduced iOS App Launch Time by 60%](https://careers.doordash.com/blog/how-we-reduced-our-ios-app-launch-time-by-60/)
+- [Why Swift Reference Types Are Bad for App Startup Time](https://www.emergetools.com/blog/posts/SwiftReferenceTypes) - Emerge
 
 ## App Runtime
 
