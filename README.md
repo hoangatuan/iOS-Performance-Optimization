@@ -22,7 +22,8 @@ Contributions are welcome 👋
 - [Advance optimization to reduce app size](https://developer.apple.com/documentation/xcode/doing-advanced-optimization-to-further-reduce-your-app-s-size) by Apple
 - [Reducing app size](https://developer.apple.com/documentation/xcode/reducing-your-app-s-size) by Apple
 - [Strip Binary Simple](https://docs.emergetools.com/docs/strip-binary-symbols)
-- [Xcode build time optimization](https://tech.autoscout24.com/blog/posts/xcode-build-time-optimization/) 
+- [Xcode build time optimization](https://tech.autoscout24.com/blog/posts/xcode-build-time-optimization/)
+- [Are Android apps THAT much smaller than iOS?](https://www.emergetools.com/blog/posts/are-android-apps-really-that-much-smaller-than-ios) by Emerge
 
 ### Tools
 
