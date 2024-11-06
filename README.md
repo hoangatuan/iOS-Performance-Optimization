@@ -126,6 +126,8 @@ Contributions are welcome 👋
 ### Tools 
 
 - [Memory Leaks Check](https://github.com/hoangatuan/MemoryLeaksCheck): A tool for detecting memory leak in CI
+- [MLeaksFinder](https://github.com/Tencent/MLeaksFinder)
+- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)
 
 ### Real life examples
 
