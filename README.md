@@ -10,6 +10,7 @@ Contributions are welcome 👋
 - [App Runtime](#App-runtime)
 - [App Hang](#App-hang)
 - [Memory usage](#memory-usage)
+- [App Crash](#app-crash)
 - [CI](#ci)
 
 ## Reduce App Size
@@ -129,6 +130,16 @@ Contributions are welcome 👋
 ### Real life examples
 
 - [The Memory Leak: An Xcode Detective Story by Emerge](https://www.emergetools.com/blog/posts/the-memory-leak-an-xcode-detective-story?utm_campaign%3DiOS%20CI%20Newsletter%26utm_medium%3Dweb%26utm_source%3DiOS%20CI%20Newsletter%20Issue%2051%26utm_content%3Dsep_23_24)
+
+## App Crash
+
+### Foundation Knowledge
+
+- [Diagnosing issues using crash reports and device logs](https://developer.apple.com/documentation/xcode/diagnosing-issues-using-crash-reports-and-device-logs) - A series of diagnosing crash issues by Apple
+
+### Tools
+
+- [KSCrash](https://github.com/kstenerud/KSCrash)
 
 ## CI
 
