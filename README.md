@@ -122,12 +122,14 @@ Contributions are welcome 👋
 - [Nested closure weak self](https://medium.com/@almalehdev/the-nested-closure-trap-356a0145b6d)
 - [Detect Unused code using Memory graph debugger](https://careers.doordash.com/blog/ios-memory-leaks-and-retain-cycle-detection-using-xcodes-memory-graph-debugger/)
 - [Automating Memory Leak Detection with CI Integration](https://medium.com/gitconnected/automating-memory-leak-detection-with-ci-integration-for-ios-380f08a55f0b)
+- [Analyze Heap Memory](https://developer.apple.com/videos/play/wwdc2024/10173/): Apple WWDC
+- [Copy-on-write](https://holyswift.app/copy-on-write-in-swift/)
 
 ### Tools 
 
 - [Memory Leaks Check](https://github.com/hoangatuan/MemoryLeaksCheck): A tool for detecting memory leak in CI
-- [MLeaksFinder](https://github.com/Tencent/MLeaksFinder)
-- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector)
+- [MLeaksFinder](https://github.com/Tencent/MLeaksFinder): Hooks the dealloc method to check whether an object still exists after being released, thereby determining if there is a memory leak
+- [FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector): Traverses strong references between objects and builds a reference graph. If it detects a cycle, it indicates a retain cycle issue
 
 ### Real life examples
 
