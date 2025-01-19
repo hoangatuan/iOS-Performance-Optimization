@@ -77,6 +77,7 @@ Contributions are welcome 👋
 - [Dynamic Linker vs Static Linker](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/DynamicLibraries/100-Articles/OverviewOfDynamicLibraries.html)
 - [Mach-O](https://medium.com/tokopedia-engineering/a-curious-case-of-mach-o-executable-26d5ecadd995)
 - [Dyld](https://www.emergetools.com/glossary/dyld)
+- [Protocol Conformance](https://www.emergetools.com/blog/posts/SwiftProtocolConformance)
 
 ### Tools
 
