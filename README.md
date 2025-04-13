@@ -32,6 +32,7 @@ Contributions are welcome 👋
 - [Periphery - Static analysis - Unused code detection](https://github.com/peripheryapp/periphery) 
 - [FengNiao - Unused image detection](https://github.com/onevcat/FengNiao)
 - [Reaper by Emerge](https://docs.emergetools.com/docs/reaper): Dynamic analysis for Unused code
+- [SmallStrings by Emerge](https://github.com/EmergeTools/SmallStrings): Reduce localisation size by 80%
 
 ### Real-life example
 
@@ -41,6 +42,7 @@ Contributions are welcome 👋
 - [Make Your iOS App Smaller with Dynamic Frameworks](https://www.emergetools.com/blog/posts/make-your-ios-app-smaller-with-dynamic-frameworks)
 - [Manage Image Resources](https://medium.com/p/45681f475461)
 - [Duolingo remove 10000 lines of unused code by using Reaper](https://blog.duolingo.com/emerge-tools-reaper/)
+- [How the Tinder iOS App reduced the size of our localizations by 95%](https://medium.com/tinder/how-the-tinder-ios-app-reduced-the-size-of-our-localizations-by-95-using-emerge-af624d5b0ff0)
 
 ## Reduce Build time
 
